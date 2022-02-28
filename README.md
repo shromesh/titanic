@@ -1,1 +1,1 @@
-# kaggle_codes
+# titanic with LinearRegression on scikit-learn
