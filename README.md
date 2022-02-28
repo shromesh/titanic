@@ -1,1 +1,1 @@
-# titanic with LinearRegression on scikit-learn
+# data analysis and LinearRegression on scikit-learn with titanic
